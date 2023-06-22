@@ -1,4 +1,4 @@
-﻿Start-Sleep -Seconds 10
+﻿Start-Sleep -Seconds 5
 Set-ExecutionPolicy RemoteSigned -Force
 try
 {
