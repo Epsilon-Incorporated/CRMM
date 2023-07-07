@@ -1,4 +1,5 @@
-﻿Start-Sleep -Seconds 5
+﻿#Connect to VPN if not already on domain network
+Start-Sleep -Seconds 5
 Set-ExecutionPolicy RemoteSigned -Force
 try
 {
